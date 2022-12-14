@@ -4,7 +4,7 @@
 }
 
 body {
-    background: linear-gradient(to right, rgba(245, 14, 226, 0.726), rgb(240, 197, 213));
+    background: linear-gradient(to right, rgba(255, 215, 0, 0.726), rgb(240, 197, 213));
     display: flex;
     justify-content: center;
     align-items: center;
