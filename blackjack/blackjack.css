@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background: linear-gradient(to right, green, rgba(169, 243, 120, 0.747));
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
     text-align: center;
     color: white;
@@ -16,7 +16,7 @@ h1 {
 }
 
 button {
-    color:  #016f32;
+    color:  white;
     width: 150px;
     padding-top: 5px;
     padding-bottom: 5px;
